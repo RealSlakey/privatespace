@@ -1,4 +1,98 @@
-# 模糊抓取订阅链接
+# 网页模糊抓取
+- type: webfuzz
+  options:
+    url: https://my.ishadowx.biz
+    
+# 网页模糊抓取
+- type: webfuzz
+  options:
+    url: https://io.freess.info
+
+# 网页模糊抓取
+- type: webfuzz
+  options:
+    url: https://view.freev2ray.org/
+    
+# 网页模糊抓取
+- type: webfuzz
+  options:
+    url: https://raw.githubusercontent.com/luyuliang1234/Free-v2ray-link-vmess/master/README.md
+    
+# 网页模糊抓取
+- type: webfuzz
+  options:
+    url: https://raw.githubusercontent.com/Nadenesmith1221/freev2ray/main/README.md
+
+# 网页模糊抓取
+- type: webfuzz
+  options:
+    url: https://www.sshagan.net/?page=v2ray
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://jiang.netlify.app
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/free
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://iwxf.netlify.app
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/freefq/free/master/ssr
+    
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/freefq/free/master/v2
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt
+    
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://hyt-allen-xu.netlify.app
+
+# tg频道抓取
+- type: tgchannel
+  options:
+    channel: dangzhibu
+    num: 200
+
+# tg频道抓取
+- type: tgchannel
+  options:
+    channel: baipiaov2
+    num: 200
+
+# tg频道抓取
+- type: tgchannel
+  options:
+    channel: V2list
+    num: 200
+
+# tg频道抓取
+- type: tgchannel
+  options:
+    channel: ssrshares
+    num: 200
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.yml
+
+# 模糊抓取订阅链接——old
 - type: webfuzzsub
   options:
     url: https://raw.githubusercontent.com/du5/free/master/sub.list
