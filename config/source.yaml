@@ -32,6 +32,16 @@
 - type: subscribe
   options:
     url: https://jiang.netlify.app
+    
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://proxypoolss.tk/vmess/sub
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://proxypoolss.tk/ss/sub
 
 # 订阅链接
 - type: subscribe
