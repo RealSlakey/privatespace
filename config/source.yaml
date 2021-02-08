@@ -33,15 +33,15 @@
   options:
     url: https://jiang.netlify.app
     
-# 订阅链接
-- type: subscribe
+# clash
+- type: clash
   options:
-    url: https://proxypoolss.tk/vmess/sub
+    url: https://proxypoolsstest.herokuapp.com/clash/proxies?speed=20
 
 # 订阅链接
 - type: subscribe
   options:
-    url: https://proxypoolss.tk/ss/sub
+    url: https://proxypoolss.tk/clash/proxies?speed=20
 
 # 订阅链接
 - type: subscribe
