@@ -72,6 +72,36 @@
 - type: subscribe
   options:
     url: https://hyt-allen-xu.netlify.app
+    
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/jsnjsnwbtwbt/2D2F/main/2C2F
+    
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/jsnjsnwbtwbt/TEzNC1jOTY1ZGE5OWM1ZT/main/Stable
+    
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/coolapijust/cxkv2-/main/IPLC
+    
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/coolapijust/cxkv2-/main/README.md
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/coolapijust/cxkv2-/main/SurfShark
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/coolapijust/cxkv2-/main/plate
 
 # tg频道抓取
 - type: tgchannel
