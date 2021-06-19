@@ -39,9 +39,48 @@
     url: https://proxypoolsstest.herokuapp.com/clash/proxies?speed=20
 
 # 订阅链接
-- type: subscribe
+- type: clash
   options:
     url: https://proxypoolss.tk/clash/proxies?speed=20
+
+# 订阅链接
+- type: clash
+  options:
+    url: https://proxy.yugogo.xyz/clash/config
+
+# 订阅链接
+- type: clash
+  options:
+    url: https://www.233660.xyz/clash/config
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://v1.mk/dcE0fSH
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://v1.mk/xsCuC1p
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://v1.mk/DW2ZUwc
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://v1.mk/yEYSs0w
+
+# 订阅链接
+- type: clash
+  options:
+    url: https://v1.mk/xhzvCJo
+
+# 订阅链接
+- type: clash
+  options:
+    url: https://v1.mk/ZKTr9q6
 
 # 订阅链接
 - type: clash
