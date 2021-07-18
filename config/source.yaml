@@ -36,7 +36,22 @@
 # clash
 - type: clash
   options:
-    url: https://proxypoolsstest.herokuapp.com/clash/proxies?speed=20
+    url: https://suo.yt/8H8wpFu
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://v2ray.banyunxiaoxi.ml
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://youlianboshi.netlify.app
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://gooii.ml/v2ray/sub
 
 # 订阅链接
 - type: clash
