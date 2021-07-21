@@ -27,6 +27,11 @@
 - type: webfuzz
   options:
     url: https://www.sshagan.net/?page=v2ray
+        
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://raw.fastgit.org/xiyaowong/freeFQ/main/v2ray
     
 # 订阅链接
 - type: subscribe
