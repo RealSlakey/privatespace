@@ -16,12 +16,12 @@
 # 网页模糊抓取
 - type: webfuzz
   options:
-    url: https://raw.githubusercontent.com/luyuliang1234/Free-v2ray-link-vmess/master/README.md
+    url: https://raw.fastgit.org/luyuliang1234/Free-v2ray-link-vmess/master/README.md
     
 # 网页模糊抓取
 - type: webfuzz
   options:
-    url: https://raw.githubusercontent.com/Nadenesmith1221/freev2ray/main/README.md
+    url: https://raw.fastgit.org/Nadenesmith1221/freev2ray/main/README.md
 
 # 网页模糊抓取
 - type: webfuzz
@@ -31,7 +31,7 @@
 # 订阅链接
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/freefq/free/master/v2
+    url: https://raw.fastgit.org/freefq/free/master/v2
     
 # 订阅链接
 - type: subscribe
@@ -115,12 +115,12 @@
 # 订阅链接
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt
+    url: https://raw.fastgit.org/adiwzx/freenode/main/adispeed.txt
 
 # 订阅链接
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/v2ray.md
+    url: https://raw.fastgit.org/umelabs/node.umelabs.dev/master/Subscribe/v2ray.md
 
 # 订阅链接
 - type: subscribe
@@ -130,7 +130,7 @@
 # 订阅链接
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt
+    url: https://raw.fastgit.org/adiwzx/freenode/main/adispeed.txt
 
 # 订阅链接
 - type: clash
@@ -150,7 +150,7 @@
 # 订阅链接
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/free
+    url: https://raw.fastgit.org/learnhard-cn/free_proxy_ss/main/free
 
 # 订阅链接
 - type: subscribe
@@ -160,17 +160,17 @@
 # 订阅链接
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/freefq/free/master/ssr
+    url: https://raw.fastgit.org/freefq/free/master/ssr
     
 # 订阅链接
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/freefq/free/master/v2
+    url: https://raw.fastgit.org/freefq/free/master/v2
 
 # 订阅链接
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt
+    url: https://raw.fastgit.org/adiwzx/freenode/main/adispeed.txt
     
 # 订阅链接
 - type: subscribe
@@ -180,32 +180,32 @@
 # 订阅链接
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/jsnjsnwbtwbt/2D2F/main/2C2F
+    url: https://raw.fastgit.org/jsnjsnwbtwbt/2D2F/main/2C2F
     
 # 订阅链接
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/jsnjsnwbtwbt/TEzNC1jOTY1ZGE5OWM1ZT/main/Stable
+    url: https://raw.fastgit.org/jsnjsnwbtwbt/TEzNC1jOTY1ZGE5OWM1ZT/main/Stable
     
 # 订阅链接
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/coolapijust/cxkv2-/main/IPLC
+    url: https://raw.fastgit.org/coolapijust/cxkv2-/main/IPLC
     
 # 订阅链接
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/coolapijust/cxkv2-/main/README.md
+    url: https://raw.fastgit.org/coolapijust/cxkv2-/main/README.md
 
 # 订阅链接
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/coolapijust/cxkv2-/main/SurfShark
+    url: https://raw.fastgit.org/coolapijust/cxkv2-/main/SurfShark
 
 # 订阅链接
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/coolapijust/cxkv2-/main/plate
+    url: https://raw.fastgit.org/coolapijust/cxkv2-/main/plate
 
 # 订阅链接
 - type: subscribe
@@ -249,17 +249,17 @@
 # clash格式订阅链接
 - type: clash
   options:
-    url: https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.yml
+    url: https://raw.fastgit.org/adiwzx/freenode/main/adispeed.yml
 
 # 模糊抓取订阅链接——old
 - type: webfuzzsub
   options:
-    url: https://raw.githubusercontent.com/du5/free/master/sub.list
+    url: https://raw.fastgit.org/du5/free/master/sub.list
 
 # 订阅链接
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
+    url: https://raw.fastgit.org/ssrsub/ssr/master/v2ray
 
 # 网页模糊抓取
 - type: webfuzz
@@ -280,7 +280,7 @@
 # clash格式订阅链接
 - type: clash
   options:
-    url: https://raw.githubusercontent.com/du5/free/master/file/0909/Clash.yaml
+    url: https://raw.fastgit.org/du5/free/master/file/0909/Clash.yaml
 
 # 某个网站抓取
 - type: web-freessrxyz
