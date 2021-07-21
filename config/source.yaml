@@ -27,7 +27,12 @@
 - type: webfuzz
   options:
     url: https://www.sshagan.net/?page=v2ray
-        
+   
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://raw.fastgit.org/learnhard-cn/free_proxy_ss/main/free
+   
 # 订阅链接
 - type: subscribe
   options:
