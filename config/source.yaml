@@ -52,7 +52,17 @@
 - type: clash
   options:
     url: https://suo.yt/8H8wpFu
-
+    
+# clash
+- type: clash
+  options:
+    url: https://git.io/emzclash
+    
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://git.io/emzv2ray
+    
 # 订阅链接
 - type: subscribe
   options:
