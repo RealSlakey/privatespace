@@ -37,6 +37,11 @@
 - type: subscribe
   options:
     url: https://raw.fastgit.org/xiyaowong/freeFQ/main/v2ray
+       
+# 订阅链接
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/oslook/clash-freenode/main/clash.yaml
     
 # 订阅链接
 - type: subscribe
