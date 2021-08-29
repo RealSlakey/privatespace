@@ -86,12 +86,12 @@
 # 订阅链接
 - type: clash
   options:
-    url: https://proxypoolss.tk/clash/proxies?speed=20
-
-# 订阅链接
-- type: clash
-  options:
     url: https://proxy.yugogo.xyz/clash/config
+    
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://proxy.yugogo.xyz/vmess/sub
 
 # 订阅链接
 - type: clash
@@ -102,30 +102,6 @@
 - type: subscribe
   options:
     url: https://v1.mk/dcE0fSH
-
-# 订阅链接
-- type: subscribe
-  options:
-    url: https://v1.mk/xsCuC1p
-# 订阅链接
-- type: subscribe
-  options:
-    url: https://v1.mk/DW2ZUwc
-
-# 订阅链接
-- type: subscribe
-  options:
-    url: https://v1.mk/yEYSs0w
-
-# 订阅链接
-- type: clash
-  options:
-    url: https://v1.mk/xhzvCJo
-
-# 订阅链接
-- type: clash
-  options:
-    url: https://v1.mk/ZKTr9q6
 
 # 订阅链接
 - type: clash
@@ -156,11 +132,6 @@
 - type: subscribe
   options:
     url: https://raw.fastgit.org/adiwzx/freenode/main/adispeed.txt
-
-# 订阅链接
-- type: clash
-  options:
-    url: https://free.mengbai.cf/clash/config
 
 # 订阅链接
 - type: clash
@@ -210,42 +181,12 @@
 # 订阅链接
 - type: subscribe
   options:
-    url: https://raw.fastgit.org/jsnjsnwbtwbt/TEzNC1jOTY1ZGE5OWM1ZT/main/Stable
-    
-# 订阅链接
-- type: subscribe
-  options:
-    url: https://raw.fastgit.org/coolapijust/cxkv2-/main/IPLC
-    
-# 订阅链接
-- type: subscribe
-  options:
-    url: https://raw.fastgit.org/coolapijust/cxkv2-/main/README.md
+    url: https://raw.fastgit.org/jsnjsnwbtwbt/TEzNC1jOTY1ZGE5OWM1ZT/main/Stable  
 
 # 订阅链接
 - type: subscribe
   options:
-    url: https://raw.fastgit.org/coolapijust/cxkv2-/main/SurfShark
-
-# 订阅链接
-- type: subscribe
-  options:
-    url: https://raw.fastgit.org/coolapijust/cxkv2-/main/plate
-
-# 订阅链接
-- type: subscribe
-  options:
-    url: https://aaxc.club/free-nodes.txt?lt=3
-
-# 订阅链接
-- type: subscribe
-  options:
-    url: https://sspool.herokuapp.com/clash/proxies
-
-# 订阅链接
-- type: subscribe
-  options:
-    url: https://caicai.moose.tk/vmess/sub
+    url: https://sspool.herokuapp.com/vmess/sub
 
 # tg频道抓取
 - type: tgchannel
@@ -281,10 +222,6 @@
   options:
     url: https://raw.fastgit.org/du5/free/master/sub.list
 
-# 订阅链接
-- type: subscribe
-  options:
-    url: https://raw.fastgit.org/ssrsub/ssr/master/v2ray
 
 # 网页模糊抓取
 - type: webfuzz
@@ -305,7 +242,67 @@
 # clash格式订阅链接
 - type: clash
   options:
-    url: https://raw.fastgit.org/du5/free/master/file/0909/Clash.yaml
+    url: https://emby.luoml.eu.org/clash/config
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://etproxypool.ga/clash/config
+    
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://fq.lonxin.net/clash/config
+    
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://free.dswang.ga/clash/config
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://free.kingfu.cf/clash/config
+    
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://free886.herokuapp.com/clash/config
+    
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://hello.stgod.com/clash/config
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://hm2019721.ml/clash/config
+    
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://outseen.tk/clash/config
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://proxypool.fly.dev/clash/config
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://proxy.51798.xyz/clash/config
+    
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://free.dswang.ga/clash/config
+    
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://www.linbaoz.com/clash/config
 
 # 某个网站抓取
 - type: web-freessrxyz
