@@ -46,6 +46,11 @@
 # 订阅链接
 - type: subscribe
   options:
+    url: https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/main/Eternity
+    
+# 订阅链接
+- type: subscribe
+  options:
     url: https://raw.fastgit.org/freefq/free/master/v2
     
 # 订阅链接
