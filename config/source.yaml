@@ -67,6 +67,16 @@
 - type: clash
   options:
     url: https://git.io/emzclash
+        
+# clash
+- type: clash
+  options:
+    url: https://free.kingfu.cf/clash/config
+        
+# clash
+- type: clash
+  options:
+    url: https://proxy.yugogo.xyz/clash/config
     
 # 订阅链接
 - type: subscribe
