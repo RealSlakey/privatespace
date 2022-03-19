@@ -318,7 +318,106 @@
 - type: clash
   options:
     url: https://www.linbaoz.com/clash/config
+    
+# clash格式订阅链接
+- type: clash
+  options:
+    url: http://118.31.77.3/clash/config
+        
+# clash格式订阅链接
+- type: clash
+  options:
+    url: http://wxshi.top:9090/clash/config
+    
+# clash格式订阅链接
+- type: clash
+  options:
+    url: http://149.248.8.112/clash/config
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: http://158.101.93.192/clash/config
+    
+# clash格式订阅链接
+- type: clash
+  options:
+    url: http://213.188.195.234/clash/config
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: http://39.106.12.141:8081/clash/config
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://fq.lonxin.net/clash/config
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://proxy.whuboy.com/clash/config
+    
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://free.zdl.im/clash/config
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://proxies.bihai.cf/clash/config
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://proxy.leefake.xyz/clash/config
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://proxypoolss.fly.dev/clash/config
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://sspool.herokuapp.com/clash/config
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://0520.ml/clash/config
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://fq.lonxin.net/clash/config
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://free.dswang.ga/clash/config
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: 
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://free886.herokuapp.com/clash/config
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: 
 
 # 某个网站抓取
 - type: web-freessrxyz
   options:
+
+- type: webfuzzsub
+  options:
+    url: https://raw.githubusercontent.com/daycat/freev2/main/sublist
