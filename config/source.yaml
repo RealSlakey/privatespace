@@ -421,3 +421,49 @@
 - type: webfuzzsub
   options:
     url: https://raw.githubusercontent.com/daycat/freev2/main/sublist
+    
+    
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://sspool.herokuapp.com/clash/proxies
+    
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://free.zdl.im/clash/proxies
+    
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://ednovas.design/clash/proxies
+    
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://proxy.ednovas.xyz/clash/proxies
+    
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://hk.xhrzg2017.xyz/clash/proxies
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://proxy.ednovas.xyz/clash/proxies?c=US
+    
+# clash格式订阅链接
+- type: clash
+  options:
+    url: http://clash.3wking.com:12580/clash/proxies
+    
+# clash格式订阅链接
+- type: clash
+  options:
+    url: http://wxshi.top:9090/clash/proxies
+    
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://fq.lonxin.net/clash/config
